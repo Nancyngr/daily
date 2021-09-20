@@ -10,8 +10,8 @@
 * [x] Savoir comment poser des questions
 * [x] Savoir comment aborder un problème
 * [x] Configuration de son environnement de travail
-  * [ ] Mise à jour OS (Linux, Windows, Mac)
-  * [ ] Installation (Discord)
-  * [ ] Installation navigateur (Developper Edition)
-  * [ ] Création et configuration Mail pro 
-  * [ ] Création et configuration Twitter pro 
+  * [x] Mise à jour OS (Linux, Windows, Mac)
+  * [x] Installation (Discord)
+  * [x] Installation navigateur (Developper Edition)
+  * [x] Création et configuration Mail pro 
+  * [x] Création et configuration Twitter pro 
