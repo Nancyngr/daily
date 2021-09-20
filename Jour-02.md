@@ -7,9 +7,9 @@
 
 * [x] Comprendre le métier de développeur, aperçu sur le mindset du dev
 * [x] Savoir comment aborder la gestion de son temps
-* [ ] Savoir comment poser des questions
-* [ ] Savoir comment aborder un problème
-* [ ] Configuration de son environnement de travail
+* [x] Savoir comment poser des questions
+* [x] Savoir comment aborder un problème
+* [x] Configuration de son environnement de travail
   * [ ] Mise à jour OS (Linux, Windows, Mac)
   * [ ] Installation (Discord)
   * [ ] Installation navigateur (Developper Edition)
