@@ -5,8 +5,8 @@
 ### Mardi 14/09/2021
 
 
-* [ ] Comprendre le métier de développeur, aperçu sur le mindset du dev
-* [ ] Savoir comment aborder la gestion de son temps
+* [x] Comprendre le métier de développeur, aperçu sur le mindset du dev
+* [x] Savoir comment aborder la gestion de son temps
 * [ ] Savoir comment poser des questions
 * [ ] Savoir comment aborder un problème
 * [ ] Configuration de son environnement de travail
